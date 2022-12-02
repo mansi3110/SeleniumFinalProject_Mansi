@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59148" started-at="2022-12-01T17:12:13Z" finished-at="2022-12-01T17:13:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59148" started-at="2022-12-01T17:12:13Z" finished-at="2022-12-01T17:13:12Z">
+      <class name="com.testing.LoginTestFile">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="beforeMethod" is-config="true" duration-ms="4171" started-at="2022-12-01T12:12:13Z" finished-at="2022-12-01T12:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_Login_001()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="TC_Login_001" duration-ms="1112" started-at="2022-12-01T12:12:18Z" finished-at="2022-12-01T12:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_001 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="afterMethod" is-config="true" duration-ms="305" started-at="2022-12-01T12:12:19Z" finished-at="2022-12-01T12:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="beforeMethod" is-config="true" duration-ms="3152" started-at="2022-12-01T12:12:19Z" finished-at="2022-12-01T12:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_Login_002()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="TC_Login_002" duration-ms="62" started-at="2022-12-01T12:12:22Z" finished-at="2022-12-01T12:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_002 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="afterMethod" is-config="true" duration-ms="258" started-at="2022-12-01T12:12:22Z" finished-at="2022-12-01T12:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="beforeMethod" is-config="true" duration-ms="3514" started-at="2022-12-01T12:12:22Z" finished-at="2022-12-01T12:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_Login_003_to_TC_Login_007()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="TC_Login_003_to_TC_Login_007" duration-ms="7148" started-at="2022-12-01T12:12:26Z" finished-at="2022-12-01T12:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_003_to_TC_Login_007 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="afterMethod" is-config="true" duration-ms="247" started-at="2022-12-01T12:12:33Z" finished-at="2022-12-01T12:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="beforeMethod" is-config="true" duration-ms="3076" started-at="2022-12-01T12:12:33Z" finished-at="2022-12-01T12:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_Login_008()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="TC_Login_008" duration-ms="2463" started-at="2022-12-01T12:12:36Z" finished-at="2022-12-01T12:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_008 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="afterMethod" is-config="true" duration-ms="280" started-at="2022-12-01T12:12:39Z" finished-at="2022-12-01T12:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="beforeMethod" is-config="true" duration-ms="3084" started-at="2022-12-01T12:12:39Z" finished-at="2022-12-01T12:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_Login_009()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="TC_Login_009" duration-ms="7563" started-at="2022-12-01T12:12:42Z" finished-at="2022-12-01T12:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_009 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="afterMethod" is-config="true" duration-ms="128" started-at="2022-12-01T12:12:50Z" finished-at="2022-12-01T12:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="beforeMethod" is-config="true" duration-ms="3051" started-at="2022-12-01T12:12:50Z" finished-at="2022-12-01T12:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_Login_010()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="TC_Login_010" duration-ms="7830" started-at="2022-12-01T12:12:53Z" finished-at="2022-12-01T12:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_010 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="afterMethod" is-config="true" duration-ms="201" started-at="2022-12-01T12:13:01Z" finished-at="2022-12-01T12:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="beforeMethod" is-config="true" duration-ms="3528" started-at="2022-12-01T12:13:01Z" finished-at="2022-12-01T12:13:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_Login_011()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="TC_Login_011" duration-ms="7705" started-at="2022-12-01T12:13:05Z" finished-at="2022-12-01T12:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_011 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testing.LoginTestFile@a4102b8]" name="afterMethod" is-config="true" duration-ms="242" started-at="2022-12-01T12:13:12Z" finished-at="2022-12-01T12:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.testing.LoginTestFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

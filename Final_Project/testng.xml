@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.testing.LoginTestFile"/>
+      <class name="com.testing.InboxEmailTestFile"/>
+      <class name="com.testing.ReadUnreadTestFile"/>
+      <class name="com.testing.TrashEmailTestFile"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
